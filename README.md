@@ -25,7 +25,7 @@ Atualmente estou estudando front-end no programa que estou cursando na Growdev.
 
 ## Rede sociais
 
-<a href=https://wa.me//5554984027602>Whatsapp</a>
+<a href=https://wa.me//5554984027602>Whatsapp</a> <br>
 <a href=https://www.instagram.com/dbgheno/>Instagram</a>
 
 
