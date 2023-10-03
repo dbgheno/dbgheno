@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Me chamo Daniel Gheno e estou em formação no Programa Starter Full Stack Web Developer.
+Me chamo Daniel Gheno e estou em formação no Programa Starter Full Stack Web Developer na Growdev - Bolsista da Sicredi Pioneira.
 
 
 ## Mais sobre mim
