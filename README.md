@@ -21,8 +21,8 @@ object **dbgheno** {
 
 ## Rede sociais
 
-<a src=https://wa.me//5554984027602>Whatsapp</a>
-<a src=https://www.instagram.com/dbgheno/>Instagram</a>
+<a href=https://wa.me//5554984027602>Whatsapp</a>
+<a href=https://www.instagram.com/dbgheno/>Instagram</a>
 
 
 <br>
