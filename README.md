@@ -17,11 +17,11 @@ object **dbgheno** {
 }
 ```
 ## Um pouco mais
-Tenho 34 anos, atuo como bombeiro voluntário em Nova Petrópolis - RS. 
-Tenho bom conhecimento em informática básica, atuei anos com assitência técnica e agora estou inciando em programação. 
-Gosto de cozinhar, estudar e fazer atividades físicas.
-Minha linguagem preferida até o momento é a que mais tenho experiência, o Pine Script do TradingView.
-Atualmente estou estudando front-end no Programa que estou cursando na Growdev.
+Tenho 34 anos, atuo como bombeiro voluntário em Nova Petrópolis - RS. <br>
+Tenho bom conhecimento em informática básica, atuei anos com assitência técnica e agora estou inciando em programação. <br>
+Gosto de cozinhar, estudar e fazer atividades físicas. <br>
+Minha linguagem preferida até o momento é a que mais tenho experiência, o Pine Script do TradingView. <br>
+Atualmente estou estudando front-end no programa que estou cursando na Growdev.
 
 ## Rede sociais
 
