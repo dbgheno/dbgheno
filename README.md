@@ -18,16 +18,13 @@ object **dbgheno** {
 ```
 
 
-
+## Rede sociais
 [whatsapp]: https://api.whatsapp.com/send?phone=5554984027602
 [instagram]: https://www.instagram.com/dbgheno/
 
 
 <br>
 
-## Rede sociais
 
-📞 **https://api.whatsapp.com/send?phone=5554984027602**
-📷 **https://www.instagram.com/dbgheno/**
 
 
