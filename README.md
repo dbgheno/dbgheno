@@ -17,7 +17,7 @@ object **dbgheno** {
 }
 ```
 ## Um pouco mais
-
+Tenho 34 anos, atuo como bombeiro voluntário em Nova Petrópolis - RS. Tenho bom conhecimento em informática básica e agora estou inciando em programação.
 
 ## Rede sociais
 
