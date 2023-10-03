@@ -37,9 +37,7 @@ object **dbgheno** {
 
 ## Rede sociais
 
-🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
+📞 [Whatsapp] **https://api.whatsapp.com/send?phone=5554984027602**
+📷 [Instagram] **https://www.instagram.com/dbgheno/**
+
 
