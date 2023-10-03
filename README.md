@@ -20,10 +20,10 @@ object **dbgheno** {
 
 
 ## Rede sociais
-<a href=https://api.whatsapp.com/send?phone=5554984027602>Whatsapp
-</a>
-<a href=https://www.instagram.com/dbgheno/>Instagram</a>
-
+```html
+<a src=https://api.whatsapp.com/send?phone=5554984027602>Whatsapp</a>
+<a src=https://www.instagram.com/dbgheno/>Instagram</a>
+```
 
 <br>
 
